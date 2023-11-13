@@ -11,6 +11,7 @@ body{
     padding: 4px 4px;
     justify-content: space-between;
     align-items: center;
+    margin-top: 20px;
     /* border-radius: 4px; */
 }
 .navigation_bar a{
@@ -19,7 +20,7 @@ body{
 }
 .main_nav_bar{
     color: purple;
-    font-size: 30px;
+    font-size: 40px;
 }
 .other_nav_bars{
     padding-top: 10px;
