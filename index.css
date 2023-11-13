@@ -25,12 +25,14 @@ body{
 .other_nav_bars{
     padding-top: 10px;
     float: right;
+    font-size: 17px;
 }
 .other_nav_bars ul{
     display: flex;
     flex-wrap: wrap;
     gap: 80px;
     font-weight: 200;
+    list-style: none;
 }
 a:hover {
     color: rgb(237, 105, 237);
