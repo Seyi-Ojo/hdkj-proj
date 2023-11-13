@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
     function nextSlide() {
-        currentIndex = (currentIndex + 1) % 3; // Change 3 to the total number of images
+        currentIndex = (currentIndex + 1) % 5; // Change 3 to the total number of images
         showSlide(currentIndex);
     }
 
