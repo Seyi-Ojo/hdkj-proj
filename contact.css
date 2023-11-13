@@ -178,3 +178,18 @@ h2{
         height: 200px;
     }
 }
+.contact{
+    margin-top: 4rem;
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+.contact a {
+    display: inline-block;
+    padding-inline: 24px;
+    padding-block: 6px;
+    color: rgb(237, 105, 237);
+    text-decoration: none;
+    border: 1px solid white;
+    background-color: black;
+}
