@@ -42,7 +42,8 @@ a:hover {
 .main_nav_bar{
     color: purple;
     font-size: 40px;
-    background-color: purple;}
+    background-color: purple;
+}
 .other_nav_bars{
     padding-top: 10px;
     float: right;
@@ -99,7 +100,7 @@ a:hover {
 }
 .right{
     padding: 25px 40px;
-    border-left: 7px solid purple;
+    border-left: 7px solid rgb(237, 105, 237);
     margin-right: 25px;
 }
 h2{
@@ -123,7 +124,7 @@ h2{
     width: 100%;
     padding: 0.5rem 1rem;
     outline: none;
-    border: 2px solid chocolate;
+    border: 2px solid rgb(237, 105, 237);
     border-radius: 7px;
     background-color: rgba(230, 230, 230, 0.6);
     font-size: 1.0rem;
@@ -136,7 +137,7 @@ h2{
 }
 .field:focus{
     background-color: #fff;
-    border: 2px solid purple;
+    border: 2px solid rgb(237, 105, 237);
 }
 .area{
     min-height: 150px;
@@ -148,7 +149,7 @@ h2{
     margin-bottom: 20px;
     color: rgb(119, 1, 1);
     font-size: 15px;
-    border: 2px solid chocolate;
+    border: 2px solid rgb(237, 105, 237);
     border-radius: 7px;
     padding: 5px;
 }
@@ -162,7 +163,7 @@ h2{
     background-color: purple;
     cursor: pointer;
     outline: none;
-    border: 3px solid chocolate;
+    border: 3px solid rgb(237, 105, 237);
     border-radius: 20px;
     transition: .3s;
     color: #fff;

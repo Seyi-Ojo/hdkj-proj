@@ -114,8 +114,8 @@ a:hover {
     display: inline-block;
     padding-inline: 24px;
     padding-block: 6px;
-    color: rgb(237, 105, 237);
+    color: white;
     text-decoration: none;
-    background-color: aliceblue;
-    border: 1px solid purple;
+    background-color: purple;
+    border: 1px solid black;
 }
